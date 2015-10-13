@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conn>
+	<classname>oracle.jdbc.driver.OracleDriver</classname>
+	<url>jdbc:oracle:thin:@bruce-pc:1522:orcl</url>
+	<user>oraclass</user>
+	<pass>JAVA</pass>
+</conn>
